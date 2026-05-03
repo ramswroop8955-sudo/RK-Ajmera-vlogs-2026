@@ -24,3 +24,29 @@
 
 </body>
 </html>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  .photo-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .bike-photo {
+    max-width: 100%;
+    height: auto;
+    border-radius: 15px; /* कोनों को हल्का गोल करने के लिए */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2); /* हल्की छाया के लिए */
+  }
+</style>
+</head>
+<body>
+
+<div class="photo-container">
+  <h2>मेरी नई राइड</h2>
+  <img src="1000172542.png" alt="Yamaha R15 के साथ फोटो" class="bike-photo">
+</div>
+
+</body>
+</html>
